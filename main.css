@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+}
+
+iframe {
+  display: block;
+  margin: auto;
+}
+
+.map {
+  border: 1px solid #ccc;
+  background-color: #efefef;
+  height: 300px;
+}
+
+#qrcode {
+  width:200px;
+  height:200px;
+  
+  margin:auto;
+}   
